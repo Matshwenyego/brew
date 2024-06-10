@@ -8,6 +8,7 @@ class AuthService {
     try {
       dynamic result = await _auth.signInAnonymously();
       dynamic user = result.user;
+      return user;
     }
     catch (error){
       print(error.toString());

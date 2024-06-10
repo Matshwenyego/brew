@@ -30,7 +30,6 @@
    ```
 
 ## Using Hot Reload and Hot Restart
-# Hot Reload
 # Hot Reload allows you to see changes in your app instantly without restarting it. After making changes to your code, save the file, and the app will reload automatically.
 
 1. In VS Code, press r in the terminal where flutter run is running.
